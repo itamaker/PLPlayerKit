@@ -1,5 +1,3 @@
-source 'https://github.com/CocoaPods/Specs.git'
-
-target 'PLPlayerKit', :exclusive => true do
+target 'PLPlayerKit' do
   pod "PLPlayerKit", :path => "../"
 end

@@ -1,16 +1,19 @@
 PODS:
-  - PLPlayerKit (1.2.13):
-    - PLPlayerKit/precompiled (= 1.2.13)
-  - PLPlayerKit/precompiled (1.2.13)
+  - HappyDNS (0.3.10)
+  - PLPlayerKit (2.4.2):
+    - HappyDNS (~> 0.3.10)
 
 DEPENDENCIES:
   - PLPlayerKit (from `../`)
 
 EXTERNAL SOURCES:
   PLPlayerKit:
-    :path: "../"
+    :path: ../
 
 SPEC CHECKSUMS:
-  PLPlayerKit: 76d97a7f6262531a7bec4281e9e16a0b40c58f41
+  HappyDNS: 06a9fed2796663fd87626dbf02552933265bf059
+  PLPlayerKit: 513e328d861ee02bbe682b79c9be36f7ed224239
 
-COCOAPODS: 0.37.2
+PODFILE CHECKSUM: d20fd3c1a75d3d4f8346b3b33f0b42e59b6ab3ab
+
+COCOAPODS: 1.1.1

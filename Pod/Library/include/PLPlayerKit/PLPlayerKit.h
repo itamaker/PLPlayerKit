@@ -9,8 +9,8 @@
 #ifndef PLPlayerKit_PLPlayerKit_h
 #define PLPlayerKit_PLPlayerKit_h
 
-#import "PLPlayerTypeDefines.h"
-#import "PLVideoPlayerController.h"
-#import "PLAudioPlayerController.h"
+#import "PLPlayer.h"
+#import "PLPlayerOption.h"
+#import "PLPlayerError.h"
 
 #endif
